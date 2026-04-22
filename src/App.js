@@ -366,7 +366,7 @@ export default function Portfolio() {
               <p className="lbl">Who I Am</p>
               <h2 className="sec-h">Crafting ideas into<br /><em>digital reality</em></h2>
               <p style={{ color: C.inkLight, lineHeight: 1.95, fontSize: ".93rem", marginTop: "1.6rem", fontWeight: 300 }}>
-                I'm a second-year B.Tech IT student at <span style={{ color: C.gold, fontWeight: 500 }}>KIIT, Bhubaneswar</span> with a CGPA of 7.45, building full-stack apps from RESTful APIs to polished React interfaces.
+                I'm a B.Tech IT student at <span style={{ color: C.gold, fontWeight: 500 }}>KIIT, Bhubaneswar</span>focused on building scalable full-stack applications using the MERN stack and exploring machine learning to create intelligent systems.
               </p>
               <p style={{ color: C.inkLight, lineHeight: 1.95, fontSize: ".93rem", marginTop: "1rem", fontWeight: 300 }}>
                 Currently exploring <span style={{ color: C.gold, fontWeight: 500 }}>Next.js</span> and <span style={{ color: C.gold, fontWeight: 500 }}>Machine Learning</span> to bring intelligent systems into modern web applications.
@@ -535,7 +535,7 @@ export default function Portfolio() {
               <p className="lbl">Let's Talk</p>
               <h2 className="sec-h">Get in<br /><em>touch</em></h2>
               <p style={{ color: C.inkLight, lineHeight: 1.9, fontSize: ".9rem", marginTop: "1.4rem", maxWidth: 340, fontWeight: 300 }}>
-                Open to full-time roles, freelance projects, and interesting collaborations. I respond promptly.
+                Open to full-time roles, freelance projects, and interesting collaborations.
               </p>
               <div style={{ marginTop: "2.5rem", padding: "1.4rem 1.8rem", background: C.bgDeep, border: `1px solid ${C.border}`, display: "inline-block" }}>
                 <p style={{ fontFamily: "'Jost'", fontSize: ".65rem", letterSpacing: ".16em", textTransform: "uppercase", color: C.inkLight, marginBottom: ".4rem" }}>Current Status</p>
